@@ -14,3 +14,7 @@ event will have a positive or negative effect on the company stock. Based on tha
 
 ### Running the Server
 - node server.js
+
+## Tech Stack 
+- Node.js
+- Javascript
